@@ -1,4 +1,4 @@
-# Binar-Challenge-3
+# Binar-Challenge-3 -YUHUU
 Challenge Chapter 3 by Risqi
 
 # SQL CREATE AND INSERT
